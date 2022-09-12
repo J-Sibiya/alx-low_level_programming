@@ -3,12 +3,11 @@
 #include <stdio.h>
 
 /**
- * * main - print if the number is postive, zero, or negative
- * *
- * * Description: using the main function
- * * this program prints "Programming is positive, zero, or negative
- * * Return: 0
- * */
+ * main - assign a random number to int n everytime
+ *it excecutes, and prints it
+ *Return: Always zero(Success)
+ * Description: using the main function
+ */
 int main(void)
 {
 	int n;
